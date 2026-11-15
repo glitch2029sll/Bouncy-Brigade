@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script1",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Script1",
+  "parent":{
+    "name":"Bouncy_Brigade",
+    "path":"Bouncy_Brigade.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
