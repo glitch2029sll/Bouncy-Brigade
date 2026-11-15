@@ -11,6 +11,13 @@ room_goto(Room1);
 /// @DnDArgument : "var" "global.Difficulty_Meter"
 global.Difficulty_Meter = 0;
 
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 3A4D2FC7
+/// @DnDArgument : "soundid" "Menu"
+/// @DnDSaveInfo : "soundid" "Menu"
+audio_stop_sound(Menu);
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 6C2DDBA6
